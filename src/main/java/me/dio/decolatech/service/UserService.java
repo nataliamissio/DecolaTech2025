@@ -8,4 +8,3 @@ public interface UserService {
 
     User create(User userToCreate);
 }
-
