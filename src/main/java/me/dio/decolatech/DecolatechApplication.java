@@ -9,7 +9,7 @@ public class DecolatechApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(DecolatechApplication.class, args);
-		System.out.println(("aaaa"));
+		
 	}
 
 }
